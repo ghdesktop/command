@@ -1,4 +1,4 @@
 # command
-Desktop command
+Command
 
 continue
